@@ -1,0 +1,26 @@
+:root {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: roboto;
+}
+
+.thumbnail-card {
+  list-style-type: none;
+}
+
+.thumbnail-btn {
+  border: none;
+  outline: none;
+  padding: 0;
+}
+
+.thumbnail-btn img {
+  height: 13rem;
+  width: 13rem;
+  object-fit: cover;
+  object-position: center;
+}
